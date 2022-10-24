@@ -29,7 +29,7 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 PRODUCT_DEVICE := kane
 PRODUCT_NAME := lineage_kane
 PRODUCT_BRAND := motorola
-PRODUCT_MODEL := one vision
+PRODUCT_MODEL := motorola one vision
 PRODUCT_MANUFACTURER := motorola
 
 PRODUCT_GMS_CLIENTID_BASE := android-motorola
